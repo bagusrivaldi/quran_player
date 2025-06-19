@@ -1,4 +1,3 @@
-// === blocs/surah_event.dart ===
 import 'package:equatable/equatable.dart';
 
 abstract class SurahEvent extends Equatable {

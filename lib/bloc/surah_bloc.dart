@@ -1,4 +1,3 @@
-// === blocs/surah_bloc.dart ===
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:quran_player/services/quran_api_services.dart';
 import 'surah_event.dart';

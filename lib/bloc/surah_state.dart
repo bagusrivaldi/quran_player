@@ -1,4 +1,3 @@
-// === blocs/surah_state.dart ===
 import 'package:equatable/equatable.dart';
 import '../models/surah_model.dart';
 

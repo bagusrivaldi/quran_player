@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-// import 'package:flutter_html/flutter_html.dart';
 import 'package:quran_player/models/surah_model.dart';
 import 'package:quran_player/services/audio_service_player.dart';
 
