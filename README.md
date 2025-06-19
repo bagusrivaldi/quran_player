@@ -2,7 +2,7 @@
 
 A simple and elegant Flutter application to play audio for each surah in the Holy Quran.
 
-![Platform](https://img.shields.io/badge/Flutter-3.x-blue)  
+![Platform](https://img.shields.io/badge/Flutter-3.24.3-blue)  
 Built using [Flutter](https://flutter.dev) and [just_audio](https://pub.dev/packages/just_audio) for seamless Quran recitation playback.
 
 ---
@@ -40,7 +40,7 @@ Built using [Flutter](https://flutter.dev) and [just_audio](https://pub.dev/pack
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
-git clone https://github.com/yourusername/quran_player.git
+https://github.com/bagusrivaldi/quran_player
 cd quran_player
 
 ### 2. Get dependencies
@@ -52,10 +52,15 @@ flutter run
 
 📁 Folder Structure
 lib/
+
 ├── bloc/                 # Bloc for fetching surah data
+
 ├── models/               # Surah model
+
 ├── screen/               # All UI components (home, player, widgets)
+
 ├── services/             # AudioPlayerService logic
+
 └── main.dart             # Entry point
 
 
