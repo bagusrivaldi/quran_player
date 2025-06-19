@@ -33,7 +33,11 @@ Built using [Flutter](https://flutter.dev) and [just_audio](https://pub.dev/pack
 
 ## 📷 Screenshots
 
-> *(Add your screenshots here if needed)*
+### Home Screen
+![Home Screen](assets/ss_home.jpeg)
+
+### Player Screen
+![Player Screen](assets/ss_player.jpeg)
 
 ---
 
@@ -53,6 +57,7 @@ flutter run
 📁 Folder Structure
 
 lib/
+
 ├── bloc/                 # Bloc for fetching surah data
 
 ├── models/               # Surah model
