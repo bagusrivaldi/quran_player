@@ -53,7 +53,6 @@ flutter run
 📁 Folder Structure
 
 lib/
-
 ├── bloc/                 # Bloc for fetching surah data
 
 ├── models/               # Surah model
